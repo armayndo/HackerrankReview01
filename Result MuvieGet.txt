@@ -1,0 +1,31 @@
+Testing 1 - Send Http GET request
+
+Sending 'GET' request to URL : https://jsonmock.hackerrank.com/api/movies/search/?Title=rom
+
+Sending 'GET' request to URL : https://jsonmock.hackerrank.com/api/movies/search/?Title=rom&page=2
+
+Sending 'GET' request to URL : https://jsonmock.hackerrank.com/api/movies/search/?Title=rom&page=3
+20min Walk from Nishi-Ogikubo Station, 2 Bedrooms, Living Room, Dining Room, Kitchen, 2mos Deposit, No Pets Allowed
+A Rummy Romance
+Amazing Spiderman Syndrome
+Eastern Promises: Two Guys Walk Into a Bathhouse
+From Sin to Salvation
+Gitanos sin romancero
+Harry Carey Jr. Hosts Tales from the Set
+Harry Jerome
+Harry Potter and the Escape from Gringotts
+Harry and Ringo's Night Out Promo Reel
+Little Walk in Rome
+Nick Romero: One Good Sin
+Promesa Sin Palabras
+Redeemed from Sin
+Romance sin palabras
+Saved from Sin
+Sexo sin compromiso
+Soltera y sin compromiso
+Stock Exchange Walk from London to Brighton
+The Complete Walk: Romeo and Juliet
+The Girl from Carolina: My Dumbass Boyfriend Harry
+The Girl from S.I.N.
+The View from the Widow's Walk
+Walk Away from Love
